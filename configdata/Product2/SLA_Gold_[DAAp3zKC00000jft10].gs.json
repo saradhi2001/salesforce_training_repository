@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "SLA: Gold",
+    "GearsetExternalId__c": "DAAp3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "SLA: Gold",
+    "ProductCode": "SL9060",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

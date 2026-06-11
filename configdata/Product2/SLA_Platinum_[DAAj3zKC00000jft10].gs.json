@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "SLA: Platinum",
+    "GearsetExternalId__c": "DAAj3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "SLA: Platinum",
+    "ProductCode": "SL9080",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

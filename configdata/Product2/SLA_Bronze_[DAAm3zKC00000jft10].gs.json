@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "SLA: Bronze",
+    "GearsetExternalId__c": "DAAm3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "SLA: Bronze",
+    "ProductCode": "SL9020",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

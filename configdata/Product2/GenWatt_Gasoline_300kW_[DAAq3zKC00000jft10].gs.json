@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Gasoline 300kW",
+    "GearsetExternalId__c": "DAAq3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Gasoline 300kW",
+    "ProductCode": "GC5020",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

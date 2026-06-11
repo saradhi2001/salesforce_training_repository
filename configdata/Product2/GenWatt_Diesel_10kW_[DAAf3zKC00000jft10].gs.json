@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Diesel 10kW",
+    "GearsetExternalId__c": "DAAf3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Diesel 10kW",
+    "ProductCode": "GC1020",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

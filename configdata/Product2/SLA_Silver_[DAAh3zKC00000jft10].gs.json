@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "SLA: Silver",
+    "GearsetExternalId__c": "DAAh3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "SLA: Silver",
+    "ProductCode": "SL9040",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

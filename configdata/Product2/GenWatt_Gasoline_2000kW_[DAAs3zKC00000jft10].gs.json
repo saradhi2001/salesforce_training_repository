@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Gasoline 2000kW",
+    "GearsetExternalId__c": "DAAs3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Gasoline 2000kW",
+    "ProductCode": "GC5060",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Gasoline 750kW",
+    "GearsetExternalId__c": "DAAn3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Gasoline 750kW",
+    "ProductCode": "GC5040",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "Installation: Industrial - Medium",
+    "GearsetExternalId__c": "DAAt3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "Installation: Industrial - Medium",
+    "ProductCode": "IN7060",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

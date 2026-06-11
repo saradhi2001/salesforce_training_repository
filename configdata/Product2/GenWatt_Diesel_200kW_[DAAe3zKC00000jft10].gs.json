@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Diesel 200kW",
+    "GearsetExternalId__c": "DAAe3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Diesel 200kW",
+    "ProductCode": "GC1040",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

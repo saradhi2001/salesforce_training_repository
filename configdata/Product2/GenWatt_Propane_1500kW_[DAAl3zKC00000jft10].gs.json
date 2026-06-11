@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Propane 1500kW",
+    "GearsetExternalId__c": "DAAl3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Propane 1500kW",
+    "ProductCode": "GC3060",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

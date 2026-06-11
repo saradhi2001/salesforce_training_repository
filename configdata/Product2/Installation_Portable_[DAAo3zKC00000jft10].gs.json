@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "Installation: Portable",
+    "GearsetExternalId__c": "DAAo3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "Installation: Portable",
+    "ProductCode": "IN7020",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Propane 100kW",
+    "GearsetExternalId__c": "DAAk3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Propane 100kW",
+    "ProductCode": "GC3020",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

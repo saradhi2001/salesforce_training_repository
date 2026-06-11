@@ -1,0 +1,26 @@
+{
+  "Object": "PricebookEntry",
+  "Fields": {
+    "GearsetDisplayName": "Standard - Installation: Industrial - Medium",
+    "GearsetExternalId__c": "OAAxRGO300000jfu10",
+    "IsActive": "true",
+    "UnitPrice": "50000.0",
+    "UseStandardPrice": "false"
+  },
+  "References": [
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "4AADKHT800000jfs10"
+      }
+    },
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "DAAt3zKC00000jft10"
+      }
+    }
+  ]
+}

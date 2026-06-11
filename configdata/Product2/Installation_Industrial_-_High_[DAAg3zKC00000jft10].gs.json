@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "Installation: Industrial - High",
+    "GearsetExternalId__c": "DAAg3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "Installation: Industrial - High",
+    "ProductCode": "IN7080",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

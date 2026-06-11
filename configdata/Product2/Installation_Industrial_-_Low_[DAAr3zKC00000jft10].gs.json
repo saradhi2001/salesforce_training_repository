@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "Installation: Industrial - Low",
+    "GearsetExternalId__c": "DAAr3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "Installation: Industrial - Low",
+    "ProductCode": "IN7040",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}

@@ -1,0 +1,18 @@
+{
+  "Object": "Product2",
+  "Fields": {
+    "Description": "",
+    "DisplayUrl": "",
+    "ExternalId": "",
+    "Family": "",
+    "GearsetDisplayName": "GenWatt Diesel 1000kW",
+    "GearsetExternalId__c": "DAAd3zKC00000jft10",
+    "IsActive": "true",
+    "Name": "GenWatt Diesel 1000kW",
+    "ProductCode": "GC1060",
+    "QuantityUnitOfMeasure": "",
+    "StockKeepingUnit": "",
+    "Type": ""
+  },
+  "References": []
+}
